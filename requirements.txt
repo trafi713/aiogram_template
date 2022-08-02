@@ -1,0 +1,7 @@
+aiogram>2.0,<3.0
+aioredis==2.0
+environs==8.0.0
+SQLAlchemy==1.4.39
+asyncpg
+greenlet
+alembic
